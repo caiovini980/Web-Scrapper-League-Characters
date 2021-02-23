@@ -1,6 +1,6 @@
 # Web Scrapper League Champions
 
-**This project was made as part of my studies of Elixir and it`s functions**
+**This project was made as part of my studies of Elixir and it`s functions.**
 
 #### Techinologies used:
 - [Elixir/Erlang](https://elixir-lang.org/)
