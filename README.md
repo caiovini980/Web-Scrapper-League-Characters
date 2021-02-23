@@ -2,7 +2,7 @@
 
 # Web Scrapper League Champions
 
-**This project was made as part of my studies of Elixir and it`s functions.**
+**This project was made as part of my studies of Elixir and it`s functions. Right now it returns only the champions` name**
 
 #### Techinologies used:
 - [Elixir/Erlang](https://elixir-lang.org/)
