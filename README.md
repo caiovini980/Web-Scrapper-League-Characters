@@ -1,6 +1,11 @@
-# Books
+# Web Scrapper League Champions
 
-**TODO: Add description**
+**This project was made as part of my studies of Elixir and it`s functions**
+
+#### Techinologies used:
+- [Elixir/Erlang](https://elixir-lang.org/)
+- [Floki](https://hexdocs.pm/floki/Floki.html)
+- [HTTPoison](https://hexdocs.pm/httpoison/HTTPoison.html)
 
 ## Installation
 
